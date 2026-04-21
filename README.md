@@ -14,7 +14,7 @@ The dashboard helps stakeholders:
 **Name:** Mohit Kumar Mishra  
 **Registration No:** 12310399  
 **Programme & Section:** BTECH-CSE, K23SG  
-**Course Code:** INT375  
+**Course Code:** INT375 
 **Under Guidance Of:**  
 Dr. Manpreet Singh Sehgal  
 Assistant Professor, School of Computer Science  
