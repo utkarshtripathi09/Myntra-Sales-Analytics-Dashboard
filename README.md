@@ -159,6 +159,13 @@ The Myntra Sales Analytics Dashboard demonstrates the power of Python and AI in 
 - Predictive analytics for stock and customer segmentation  
 - ROI calculator for campaign evaluation
 
+## 📚 References
+- Python (Pandas, NumPy, Seaborn, Matplotlib)  
+- Streamlit Docs: https://docs.streamlit.io  
+- scikit-learn for ML models  
+- Maven Analytics for dataset structure guidance  
+- Gemini AI Documentation  
+
 ---
 
 
