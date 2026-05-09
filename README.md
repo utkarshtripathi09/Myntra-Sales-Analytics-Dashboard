@@ -11,8 +11,8 @@ The dashboard helps stakeholders:
 ---
 
 ## 👨‍💻 Submitted By
-**Name:** Mohit Kumar Mishra  
-**Registration No:** 12310399  
+**Name:** Mohit Kumar Mishra Registration No:** 12310399  
+**Name:** Uttkarsh Tripathi Registration No:** 12321858  
 **Programme & Section:** BTECH-CSE, K23SG  
 **Course Code:** INT375 
 **Under Guidance Of:**  
@@ -161,12 +161,7 @@ The Myntra Sales Analytics Dashboard demonstrates the power of Python and AI in 
 
 ---
 
-## 📚 References
-- Python (Pandas, NumPy, Seaborn, Matplotlib)  
-- Streamlit Docs: https://docs.streamlit.io  
-- scikit-learn for ML models  
-- Maven Analytics for dataset structure guidance  
-- Gemini AI Documentation  
+
 
 ---
 
